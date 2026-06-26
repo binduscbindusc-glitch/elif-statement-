@@ -1,8 +1,8 @@
 if marks >= 85:
-print("distinction")
+   print("distinction")
 elif marks >= 60:
-print("first class")
+     print("first class")
 elif marks >= 35:
-print("pass")
+     print("pass")
 else: 
-print("fail")
+     print("fail")
